@@ -1,4 +1,5 @@
-# Plate Tectonic Forces at the New Zealand Plate Boundary
+Plate Tectonic Forces at the New Zealand Plate Boundary
+
 This repository contains code and data associated with Hirschberg & Sutherland (submitted).
 
 The code used for the model inversion is from Haines & Sutherland (2018) and the user is referred to their paper for inversion codes.
