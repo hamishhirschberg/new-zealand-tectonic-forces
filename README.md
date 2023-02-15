@@ -1,1 +1,0 @@
-# new-zealand-tectonic-forces
